@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/max/1068/0*iJKRaxqxWuWAQYF3.png)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=40&lines=Hi+there+I'm+upeka+sewwandi+%F0%9F%91%8B;Undergraduate+Software+Engineering;problem+solver" alt="Headline" />
@@ -6,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=upeka200163&color=brightgreen" alt="watching_count" />
 </p>
 <div>
-    <p><img align="right" src="https://github.com/d-coder111/d-coder111" alt=""/></p>
+    <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </div>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
