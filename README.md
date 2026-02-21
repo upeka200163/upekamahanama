@@ -14,6 +14,9 @@
 <p>✨ Fun facts about me: I love coding+reading+traveling+reaching🤗</p>
 <p>🚀 Welcome to my GitHub!</p><br><br>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<br>
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp; Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/u-sewwandi-mahanama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="u-sewwandi-mahanama" height="30" width="40" /></a>
