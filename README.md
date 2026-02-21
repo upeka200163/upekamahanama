@@ -33,7 +33,7 @@
   <tr>
     <td align="left">
       <a href="https://github.com/upeka200163">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=upeka200163&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=upeka200163&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
       </a>
     </td>
     <td align="right">
