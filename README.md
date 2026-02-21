@@ -44,7 +44,7 @@
   </tr>
 </table>
 
-<td width="50%" align="center">
+<td width="50%" align="middle">
           <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=upeka200163&theme=nightowl&hide_border=false&langs_count=8"/>
           <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117"/> -->
       </td>
