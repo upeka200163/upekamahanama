@@ -6,23 +6,21 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=upeka200163&color=brightgreen" alt="watching_count" />
 </p>
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; About Me
 <p>☘ I’m currently Undergraduate Student at NSBM Green University</p>
 <p>📩 How to reach me: upekasewwandi81@gmail.com</p>
 <p>✨ Fun facts about me: I love coding+reading+traveling+reaching🤗</p>
 <p>🚀 Welcome to my GitHub!</p><br><br>
-<div>
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-</div>
-<br>
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp; Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/u-sewwandi-mahanama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="u-sewwandi-mahanama" height="30" width="40" /></a>
 <a href="https://www.instagram.com/upekamahanama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upekamahanama" height="30" width="40" /></a>
 <a href="mailto:upekasewwandi81@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p><br></br>
+</p><br>
     
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
 ![Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,nestjs,mongodb,mysql,tailwind,docker,aws,flutter,dotnet,js,ts,java,py,c,arduino,linux,html,css,bootstrap,cs,photoshop,github,php)
