@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=upeka200163&color=brightgreen" alt="watching_count" />
 </p>
 <div>
-    <p><img align="right" src="https://github.com/d-coder111/d-coder111" alt="coding girl" /></p>
+    <p><img align="right" src="https://github.com/d-coder111/d-coder111" alt=""/></p>
 </div>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
