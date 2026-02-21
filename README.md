@@ -11,9 +11,9 @@
 <p>☘ I’m currently Undergraduate Student at NSBM Green University</p>
 <p>📩 How to reach me: upekasewwandi81@gmail.com</p>
 <p>✨ Fun facts about me: I love coding+reading+traveling+reaching🤗</p>
-<p>🚀 Welcome to my GitHub!</p>
+<p>🚀 Welcome to my GitHub!</p><br><br>
 <div>
-    <p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></p>
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </div>
 <br>
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp; Connect with me
