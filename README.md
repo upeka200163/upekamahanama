@@ -2,10 +2,12 @@
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=600&height=40&lines=Hi+there+I'm+upeka+sewwandi+%F0%9F%91%8B;Undergraduate+Software+Engineering;problem+solver" alt="Headline" />
     </div>
-    
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=upeka200163&color=brightgreen" alt="watching_count" />
 </p>
+<div>
+    <p><img align="right" src="https://github.com/d-coder111/d-coder111" alt="coding girl" /></p>
+</div>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; About Me
