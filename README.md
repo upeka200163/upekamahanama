@@ -9,13 +9,11 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 <p>☘ I’m currently Undergraduate Student at NSBM Green University</p>
 <p>📩 How to reach me: upekasewwandi81@gmail.com</p>
 <p>✨ Fun facts about me: I love coding+reading+traveling+reaching🤗</p>
 <p>🚀 Welcome to my GitHub!</p><br><br>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-<br>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp; Connect with me
 <p align="left">
