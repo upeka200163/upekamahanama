@@ -10,6 +10,7 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Talking about Personal Stuffs...
+## 👩‍💻 About Me
 <p>☘ I’m currently Undergraduate Student at NSBM Green University</p>
 <p>📩 How to reach me: upekasewwandi81@gmail.com</p>
 <p>✨ Fun facts about me: I love coding+reading+traveling+reaching🤗</p>
