@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/upekamahanama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upekamahanama" height="30" width="40" /></a>
 <a href="mailto:upekasewwandi81@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.hackerrank.com/profile/upekasewwandi81" target="blank"><img align="center" src="https://raw.githubusercontent.com/upeka200163/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="upeka200163" height="30" width="40" /></a>    
+<a href="https://www.hackerrank.com/profile/upekasewwandi81" target="blank"><img align="center" src="https://raw.githubusercontent.com/upeka200163/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="upekasewwandi" height="30" width="40" /></a>    
 </p><br>
     
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
