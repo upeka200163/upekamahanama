@@ -22,8 +22,7 @@
 <a href="mailto:upekasewwandi81@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.hackerrank.com/profile/upekasewwandi81" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"alt="upekasewwandi81"height="30"width="40" />
-</a>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"alt="upekasewwandi81"height="30"width="40" /></a>
 </p><br>
     
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
