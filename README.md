@@ -45,6 +45,15 @@
     </td>
   </tr>
 </table>
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=upeka200163&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
 
 <td width="50%" align="center">
     <p align="center">
