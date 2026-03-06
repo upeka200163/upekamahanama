@@ -46,20 +46,20 @@
   </tr>
 </table>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=upeka200163&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 <td width="50%" align="center">
     <p align="center">
           <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=upeka200163&theme=nightowl&hide_border=false&langs_count=8"/>
           <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&layout=compact&hide_border=true&title_color=F776C0&text_color=6594E2&bg_color=0d1117"/> -->
     </p>
       </td>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=upeka200163&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---  
 <p align="center">
   🔥 <em>Committed to creating meaningful digital experiences through software.</em> 🚀
 </p>
