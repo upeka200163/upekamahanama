@@ -31,16 +31,16 @@
 
 ## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Statistical Data<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 
-<table align="leftr">
+<table align="center">
   <tr>
     <td align="left">
       <a href="https://github.com/upeka200163">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=upeka200163&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&locale=en&theme=nightowl&cache_seconds=1800" alt="GitHub Stats" />
       </a>
     </td>
     <td align="right">
       <a href="https://github.com/upeka200163">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=nightowl" alt="GitHub Streak" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=nightowl&cache_seconds=1800" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
