@@ -49,8 +49,7 @@
 </table>
 
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
 </td>
 
 ## 📈 Contribution Graph
