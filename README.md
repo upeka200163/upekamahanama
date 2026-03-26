@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td align="left">
-     <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&locale=en&theme=nightowl&cache_seconds=1800" alt="GitHub Stats" /> 
+     <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=false&count_private=true&hide_rank=false" alt="GitHub Stats" height="190" width="47%"/>
 </div>
      </p>
       </p>
