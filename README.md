@@ -35,7 +35,9 @@
   <tr>
     <td align="left">
       <a href="https://github.com/upeka200163">
-        <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=nightowl" />
+        
+  <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+</p>
 </p>
       </a>
     </td>
