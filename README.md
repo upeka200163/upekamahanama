@@ -50,8 +50,7 @@
 
 <td width="50%" align="center">
     <p align="center">
-        ### Most Used Languages
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=upeka200163&theme=nightowl&hide_border=false&langs_count=20&cache_seconds=1800" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=upeka200163&theme=nightowl&hide_border=false&langs_count=20&cache_seconds=1800&custom_title=Most+Used+Languages" alt="Most Used Languages" />
     </p>
 </td>
 
