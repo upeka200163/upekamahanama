@@ -49,7 +49,7 @@
 </table>
 
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyathmaranlini&langs_count=10&layout=compact&theme=nightowl&hide=jupyter%20notebook" height="237"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyathmaranlini&langs_count=10&layout=compact&theme=algolia&include=Jupyter%20Notebook" height="237"/>
     </p>
 </td>
 
