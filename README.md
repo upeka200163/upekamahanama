@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td align="left">
-      
+     <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&locale=en&theme=nightowl&cache_seconds=1800" alt="GitHub Stats" /> 
 </div>
      </p>
       </p>
