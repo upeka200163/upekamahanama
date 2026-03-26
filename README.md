@@ -49,7 +49,7 @@
 </table>
 
 <td width="50%" align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=upeka200163&theme=nightowl&hide_border=false&langs_count=15&custom_title=Most+Used+Languages" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-sigma-twenty.vercel.app/api/top-langs/?username=upeka200163&theme=nightowl&hide_border=false&langs_count=20&custom_title=Most+Used+Languages" alt="Most Used Languages" />
     </p>
 </td>
 
