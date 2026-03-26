@@ -34,8 +34,9 @@
 <table align="center">
   <tr>
     <td align="left">
-      <a href="https://github.com/upeka200163">
-        <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&locale=en&theme=nightowl&cache_seconds=1800" alt="GitHub Stats" />
+      <h3>Most Used Languages</h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=upeka200163&theme=nightowl&hide_border=false&langs_count=20&hide_title=true" />
+</div>
      </p>
       </p>
 </a>
