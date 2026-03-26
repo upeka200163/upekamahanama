@@ -49,7 +49,7 @@
 </table>
 
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnaliyVinukiy&layout=compact&langs_count=20&count_private=true&bg_color=0d1117&title_color=00cfff&text_color=ffffff&icon_color=00cfff&hide_border=true" alt="Top Languages" height="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&theme=radical&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
     </p>
 </td>
 
