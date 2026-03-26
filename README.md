@@ -42,7 +42,8 @@
     </td>
     <td align="right">
       <a href="https://github.com/upeka200163">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=upeka200163&theme=nightowl&cache_seconds=1800" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=upeka200163&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" height="200" width="50%"/>
+
       </a>
     </td>
   </tr>
