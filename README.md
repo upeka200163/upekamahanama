@@ -31,21 +31,24 @@
 
 ## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>Statistical Data<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 
-<table align="center" width="300%">
+<table align="center">
   <tr>
-    <td align="center" width="70%">
-      <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=false&count_private=true&hide_rank=false" alt="GitHub Stats" height="800" />
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=upeka200163&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=false&count_private=true&hide_rank=false" 
+      alt="GitHub Stats" height="190" width="100%"/>
     </td>
-    <td align="center" width="70%">
+<td align="right">
       <a href="https://github.com/upeka200163">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=upeka200163&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=20" alt="GitHub Streak" height="800" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=upeka200163&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=20" 
+        alt="GitHub Streak" height="190" width="100%"/>
       </a>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" align="center">
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka200163&theme=highcontrast&layout=compact&langs_count=20&hide_border=true&count_private=true" 
+      alt="Top Languages"/>
     </td>
   </tr>
 </table>
