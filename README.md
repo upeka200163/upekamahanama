@@ -17,7 +17,7 @@
 
 <!------------------------- Connect with me ------------------------>
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> Connect with me <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> </h2>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> Connect with me <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> </h2>
 
 <br>
 
