@@ -34,7 +34,7 @@
 
 ---
     
- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
+ ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 
 ![Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,nestjs,mongodb,mysql,tailwind,docker,aws,flutter,dart,dotnet,js,ts,java,py,c,arduino,linux,html,css,bootstrap,cs,photoshop,github,php,git,figma,firebase,idea,androidstudio,vscode,visualstudio)
 <br>
 
