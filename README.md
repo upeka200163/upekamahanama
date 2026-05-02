@@ -15,22 +15,25 @@
 <p>✨ Fun facts about me: I love coding+reading+traveling+reaching🤗</p>
 <p>🚀 Welcome to my GitHub!</p><br><br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Connect with me
+<!------------------------- Connect with me ------------------------>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/u-sewwandi-mahanama" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="u-sewwandi-mahanama" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/upekamahanama" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="upekamahanama" height="30" width="40" />
-  </a>
-  <a href="mailto:upekasewwandi81@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/upekasewwandi81" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="upekasewwandi81" height="30" width="40" />
-  </a>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> Connect with me <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> </h2>
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kaveeshasenarathne"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kmalindi0826"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/ksenarathn82296"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/senarathnemalindi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://fb.com/kaveeshasenarathne"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://kaggle.com/kaveeshasenarathne"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/senarathnemalin1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
+
+<br>
+
+---
     
  ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tools and Technologies
 ![Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,expressjs,nestjs,mongodb,mysql,tailwind,docker,aws,flutter,dart,dotnet,js,ts,java,py,c,arduino,linux,html,css,bootstrap,cs,photoshop,github,php,git,figma,firebase,idea,androidstudio,vscode,visualstudio)
