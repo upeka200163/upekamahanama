@@ -74,7 +74,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+🔥+Committed+to+creating+meaningful+digital +experiences+through+software...+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+I+love+mixing+creativity+with+logic+in+coding...!)
 
 
 
