@@ -68,10 +68,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=upeka200163&bg_color=0d1117&color=A9FEF7&line=A9FEF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----  
-<p align="center">
-  🔥 <em>Committed to creating meaningful digital experiences through software.</em> 🚀
-</p>
+<!------------------------- Fun Zone ------------------------>
+
+<h2 align="center"> <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>  Fun Zone <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> </h2> <br>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+🔥+Committed+to+creating+meaningful+digital +experiences+through+software...+🚀)
+
+
 
 
 
